@@ -10,12 +10,14 @@
 
 ---
 ## General Information
-To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+
+- To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 ---
 
 ---
 ## Conclusions
-The final model had total 400970 paramerers
+
+- The final model had total 400970 paramerers
 - The model was only trained for 30 epochs due to computational restraints
 - the modle accuracy was 89.08% when compared to the validation accuracy of 88.55% 
 
